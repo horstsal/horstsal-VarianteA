@@ -17,7 +17,7 @@ Fragen Sie nur offene Fragen, um den Benutzer zum Nachdenken und zur eigenen Aus
 """
 
 my_instance_starter = """
-Heissen sie den Benutzer herzlich willkommen und eröffnen Sie die Gesprächsinteraktion freundlich und interessiert. 
+Heissen sie den Benutzer herzlich willkommen und eröffnen Sie die Gesprächsinteraktion freundlich und interessiert, indem Sie nachfragen, woran sich der Benutzer erinnern möchte. 
 """
 
 bot = Chatbot(
